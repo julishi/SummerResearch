@@ -1,5 +1,6 @@
 # Resource credits and ownership to: https://github.com/vgupta-ai/ISIC-Dataset-Downloader
 # ISIC Melanoma Project Dataset Downloader
+#### NOTE: THIS DATA WAS NOT USED FOR MY RESEARCH IN THE END THOUGH.
 
 This python script can be used to download the [ISIC Melanoma Project Dataset](https://isic-archive.com/) using the [Girder Rest-API](https://isic-archive.com/api/v1) .
 
