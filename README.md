@@ -1,5 +1,5 @@
 # SummerResearch
-#### AlexNet Trained on Cats and Dogs.
-#### And recently, both AlexNet and GoogleNet have been trained on skin cancer images to identify an image as benign or malignant, or in other if the patient has skin cancer, based on the image the network reads. 
+#### Finetuned and trained AlexNet to identify Cats and Dogs.
+#### And recently, trained and tested both AlexNet and GoogleNet to identify Melanoma. The networks classify images of skin moles as benign or malignant based on the image the network processes. 
 
-The AleNet and GooglNet models have been trained and tested on the NVIDIA Jetson Tx2 which required other modifications to the neural network structure that isn't included here on this github repository.
+The AleNet and GooglNet models have been trained and tested on the NVIDIA Jetson Tx2 which required other modifications to the neural network structure, that code isn't included here on this github repository though. The scripts above were all used for resizing, cleaning the dataset, and making other necessary changes to the dataset so that the neural networks can train on the data. 
