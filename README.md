@@ -1,4 +1,4 @@
-### Summer Research
+###  Machine Learning Research Project
 #### Finetuned and trained AlexNet to identify Cats and Dogs.
 #### And recently, trained and tested both AlexNet and GoogleNet to identify Melanoma. The networks classify images of skin moles as benign or malignant based on the image the network processes. 
 
