@@ -1,1 +1,1 @@
-#### All based on the tutorial https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html I followed. 
+#### Code I set up and ran based on the following tutorial I follwed: https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html. Getting this code to work was one of the first things I did in my reesearch to become familiar with how AlexNet works. 
